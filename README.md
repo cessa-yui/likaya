@@ -2,6 +2,8 @@
 
 Public brand website for LÍKAYA, aligned with the locked master source and approved supplied assets.
 
+The site uses the owner-approved native SVG sprout master for crisp rendering at every screen size. The original supplied PNG remains archived in the brand source for provenance.
+
 ## Brand direction
 
 - Emotional line: **MORE OF YOU.**
