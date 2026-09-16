@@ -1,31 +1,26 @@
-# LÍKAYA — official direction, private working draft
+# LÍKAYA Official Website
 
-Prepared at the owner's request on 16 September 2026. This replaces the earlier website concept in a separate local draft. The authoritative master is unchanged.
+Public brand website for LÍKAYA, aligned with the locked master source and approved supplied assets.
 
-## Included
+## Brand direction
 
-- Official emotional line, philosophy, brand story and Signature Three.
-- Warm Ivory/Taupe/Mocha/Espresso visual direction.
-- Exact supplied sprout files, with file contents unchanged.
-- Product detail dialogs with fabric targets clearly marked pending physical validation.
-- THE FITTED and THE SCULPTED supplied boards shown unchanged as design references only.
-- Responsive navigation, keyboard-accessible dialogs and anchor navigation.
-- No external fonts, analytics, checkout, signup form or other data collection.
+- Emotional line: **MORE OF YOU.**
+- Philosophy: **CREATE. EXPRESS. BECOME.**
+- Permanent core: **THE FITTED, THE SCULPTED, THE RELAXED**
+- Warm Ivory, Taupe, Mocha and Espresso visual direction
 
-## Artwork and release limitations
+## Current release
 
-The header/footer use only the approved secondary sprout. No substitute official wordmark or LK monogram is drawn. An approved primary logo/wordmark export is still required to complete the final brand header.
+The website presents the brand story, the Signature Three, planned color directions and production targets. Fabric weights, composition, sizing and availability remain subject to physical sampling and approval.
 
-THE RELAXED supplied board depicts a rotated wordmark inconsistent with the master's individually stacked letters. It is deliberately not presented on this website. Written master direction is used; correct approved artwork or actual product photography is required.
+The supplied boards for THE FITTED and THE SCULPTED appear unchanged as design references. THE RELAXED board is withheld because its wordmark treatment conflicts with the locked written master; the site follows the master text until corrected artwork or product photography is approved.
 
-Color hex values are UI approximations of the locked neutral direction and planned product colors; they are not Pantone/TCX matches or production dye approvals.
+No checkout, inventory, prices, newsletter form, analytics or customer-data collection is included.
 
-## Privacy
+## Deployment
 
-The existing Vercel project was set to Vercel Authentication → All Deployments. Anonymous requests to https://likaya.vercel.app redirect to Vercel SSO. Protecting a deployment does not make its source repository private. GitHub repository visibility remains pending explicit authorization following automatic approval review rejection.
+Vercel serves the `main` branch as a static site. No build or install command is required; the output directory is the repository root.
 
-This folder is a local draft. It has not been pushed or deployed. vercel.json disables automatic Git deployments and includes noindex headers, but authentication protection is a Vercel project setting, not provided by noindex. Never deploy this folder to a different unprotected project. Keep All Deployments protection enabled and require the owner's explicit approval before any public launch.
+## Source of truth
 
-## Local preview
-
-Run a static server bound only to 127.0.0.1 with this directory as its root. No build or dependency installation is required.
+The locked LÍKAYA master remains authoritative. This repository is the public website implementation and must be updated when approved brand or production decisions change.
