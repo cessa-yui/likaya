@@ -15,7 +15,7 @@ The site uses the owner-approved native SVG sprout master for crisp rendering at
 
 The website presents the brand story, the Signature Three, planned color directions and production targets. Fabric weights, composition, sizing and availability remain subject to physical sampling and approval.
 
-The supplied boards for THE FITTED and THE SCULPTED appear unchanged as design references. THE RELAXED board is withheld because its wordmark treatment conflicts with the locked written master; the site follows the master text until corrected artwork or product photography is approved.
+The supplied boards for THE FITTED and THE SCULPTED appear unchanged as design references. THE RELAXED appears as a front-only crop showing its oversized silhouette and left-chest sprout. Its conflicting back artwork is intentionally excluded; the locked written master controls the final back composition until corrected artwork or product photography is approved.
 
 No checkout, inventory, prices, newsletter form, analytics or customer-data collection is included.
 
